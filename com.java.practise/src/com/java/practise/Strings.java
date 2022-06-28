@@ -4,7 +4,7 @@ public class Strings {
 	public static void main(String[] args) 
 	{
 		
-		String s= "124,56";
+		String s= "124,5645";
 		
 		String[] s1=s.split(",");
 		
